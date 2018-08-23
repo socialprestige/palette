@@ -1,0 +1,11 @@
+﻿{
+  "red": "2.0",
+  "green": "0",
+  "pink": "0",
+  "yellow": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+  "cyan": [
+    "- Améliorations apportées",
+    "- Nouveau support !",
+    "- Corrections de quelques bogues"
+  ]
+}
